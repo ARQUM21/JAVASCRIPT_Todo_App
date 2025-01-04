@@ -16,7 +16,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 - **JavaScript**: For managing the logic, such as adding, editing, and deleting notes, as well as handling local storage functionality.
 
 ## Contributions
-If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
+If you are like to contribute to this project, feel free to fork the repository, make changes, and create a pull request.
 
 **Created by Arqum**
 
