@@ -200,4 +200,8 @@ body {
     .btn-submit, .btn-edit, .btn-delete {
         font-size: 0.85rem;
     }
+    .btn-edit, .btn-delete {
+        height: 30px;
+        width: 60px;
+    }
 }
